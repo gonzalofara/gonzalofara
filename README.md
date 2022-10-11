@@ -1,6 +1,6 @@
 
 <div align="center" display="grid">
-<img src="https://user-images.githubusercontent.com/105249699/195171898-f59fe658-554e-4f14-b726-9d9c6bf8a89c.gif?raw=true" alt="Sublime's custom image"/>
+<img width="1000px" src="https://user-images.githubusercontent.com/105249699/195197750-70722648-c905-4ea9-8af5-74a2fe1fb081.gif?raw=true" alt="Sublime's custom image"/>
 <h4>
  From Argentina :argentina: to :earth_americas:
 </h4>
@@ -14,7 +14,8 @@
 
 
   <h3>
-  :pushpin: My Projects 
+  :pushpin: My Projects
+
   </h3>
 <--
 
