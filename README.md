@@ -22,7 +22,6 @@ I look forward to put into practice the knowledge acquired, with the opportunity
   </h2>
   <img src="https://user-images.githubusercontent.com/105249699/195181062-d5337c5d-8c32-4bb6-a29b-bfe4b3c7c929.jpg?raw=true" alt="Sublime's custom image"/>
 
-
   <h2>
   :pushpin: My Projects
   </h2>
@@ -41,6 +40,11 @@ I look forward to put into practice the knowledge acquired, with the opportunity
    <video src="https://user-images.githubusercontent.com/105249699/195212222-35e337e7-44bf-403b-8825-58418f81fb78.mp4" width=400 height=300/>
  </li>
  </ul>
+ 
+
+ <h2>My Streak stats! :collision:</h2> 
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=gonzalofara&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <div align="center" display="grid">
@@ -50,7 +54,11 @@ I look forward to put into practice the knowledge acquired, with the opportunity
 </a>
 </div>
 
+<div align="right">
 
+![](https://komarev.com/ghpvc/?username=gonzalofara)
+
+</div>
 
 
 
