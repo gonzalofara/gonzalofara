@@ -8,7 +8,7 @@
  
 <div align="center">
  <h1>Welcome to my GitHub! :wave:</h1> 
- <p><a align="center" href="https://gonzalofara-portfolio.netlify.app/">My Portfolio</a></p>
+ <p><a align="center" href="https://gonzalofara-portfolio.vercel.app/">My Portfolio</a></p>
 </div>
 
 I'm here on GitHub to share my personal projects, contribute to third-party projects & get inspiration.
